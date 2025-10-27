@@ -12,3 +12,16 @@ Smart_File_Converter is a **Java Swing-based application** that allows users to 
       - **Other:** Zipped automatically.  
       - Shows the **file structure and processing status**.  
       - Provides a button to **open the processed file directly**.
+
+
+      ## Installation
+
+  Clone the repository:    git clone https://github.com/keerthi-padamati/Smart_File_Converter.git
+  
+  
+  Navigate to the project folder:  cd Smart_File_Converter/src
+
+  Compile all Java files:  javac smartfileconverter/*.java
+
+  Run the application:   java smartfileconverter.Main
+
