@@ -40,21 +40,19 @@ Smart_File_Converter is a **Java Swing-based application** that allows users to 
 
   File Structure :-
 
-### 📁 Project Structure
-
 Smart_File_Converter
 │
 └─── src
-│
-└─── smartfileconverter
-├── AudioConverter.java
-├── Compressor.java
-├── FileConverterUI.java
-├── FileConverter.java
-├── FileProcessor.java
-├── FileTypeDetector.java
-├── ImageConverter.java
-├── Main.java
-└── Zipper.java
+    │
+    └─── smartfileconverter
+        ├── AudioConverter.java
+        ├── Compressor.java
+        ├── FileConverterUI.java
+        ├── FileConverter.java
+        ├── FileProcessor.java
+        ├── FileTypeDetector.java
+        ├── ImageConverter.java
+        ├── Main.java
+        └── Zipper.java
 
 
