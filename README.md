@@ -38,3 +38,37 @@ Smart_File_Converter is a **Java Swing-based application** that allows users to 
   Click "Open File" to open the processed file.
 
 
+  File Structure :-
+
+Smart_File_Converter
+      |
+      |
+      |_________  src
+                  |
+                  |
+                  |_______________  smartfileconverter
+                                              |
+                                              |---------->    AudioConverter.java 
+                                              |
+                                              |---------->    Compressor.java
+                                              |
+                                              |---------->    FileConverterUI.java
+                                              |
+                                              |---------->    FileConverter.java
+                                              |
+                                              |---------->    FileProcessor.java
+                                              |
+                                              |---------->    FileTypeDectector.java
+                                              |
+                                              |---------->    ImageConverter.java
+                                              |
+                                              |---------->    Main.java
+                                              |
+                                              |---------->    Zipper.java
+
+
+      
+      
+
+
+
