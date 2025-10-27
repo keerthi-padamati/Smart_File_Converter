@@ -25,3 +25,16 @@ Smart_File_Converter is a **Java Swing-based application** that allows users to 
 
   Run the application:   java smartfileconverter.Main
 
+  **Usage**
+
+  Launch the application.  
+  Click "Choose File" to select a file from your system.
+  The application detects the file type and automatically processes it:
+  Text → Compressed
+  Image → Converted
+  Audio → Mock converted
+  Other → Zipped
+  The status label displays the output path.
+  Click "Open File" to open the processed file.
+
+
