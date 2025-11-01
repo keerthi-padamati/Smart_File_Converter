@@ -77,6 +77,3 @@ Smart_File_Converter/
         ├── ImageConverter.java
         ├── Main.java
         └── Zipper.java
-
-
-
