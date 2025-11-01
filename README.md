@@ -61,21 +61,23 @@ Smart_File_Converter is a **Java Swing-based application** that allows users to 
 -  Integrate cloud storage upload after conversion
 
 
-  File Structure :-
+## File Structure
 
-Smart_File_Converter
+Smart_File_Converter/
 │
-└─── src
-    │
-    └─── smartfileconverter
-        ├── AudioConverter.java
-        ├── Compressor.java
-        ├── FileConverterUI.java
-        ├── FileConverter.java
-        ├── FileProcessor.java
-        ├── FileTypeDetector.java
-        ├── ImageConverter.java
-        ├── Main.java
-        └── Zipper.java
+└─── src/
+│
+└─── smartfileconverter/
+├── AudioConverter.java
+├── Compressor.java
+├── FileConverterUI.java
+├── FileConverter.java
+├── FileProcessor.java
+├── FileTypeDetector.java
+├── ImageConverter.java
+├── Main.java
+└── Zipper.java
+
+
 
 
