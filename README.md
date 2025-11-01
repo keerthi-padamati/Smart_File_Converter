@@ -37,6 +37,18 @@ Smart_File_Converter is a **Java Swing-based application** that allows users to 
   The status label displays the output path.
   Click "Open File" to open the processed file.
 
+  ## Technologies Used
+
+| Technology         | Purpose                   |
+| ------------------ | ------------------------- |
+| **Java 17+**       | Core programming language |
+| **Swing**          | GUI framework             |
+| **GZIP**           | Text compression          |
+| **Java Image I/O** | Image format conversion   |
+| **Java Zip API**   | File zipping              |
+
+
+
 
   File Structure :-
 
