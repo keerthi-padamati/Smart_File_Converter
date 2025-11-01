@@ -48,6 +48,17 @@ Smart_File_Converter is a **Java Swing-based application** that allows users to 
 | **Java Zip API**   | File zipping              |
 
 
+## Future Enhancements
+
+-  Add real audio/video conversion support
+
+-  Support more image formats (e.g., PNG → WebP)
+
+-  Add batch file processing
+
+-  Display conversion statistics
+
+-  Integrate cloud storage upload after conversion
 
 
   File Structure :-
