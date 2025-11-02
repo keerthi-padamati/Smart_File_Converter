@@ -10,4 +10,8 @@ public class AudioConverter
         File out = new File(input.getParent(),input.getName().replace(".", "_converted."));
          try (FileInputStream fis = new FileInputStream(input);FileOutputStream fos = new FileOutputStream(out))
          {
-
+              fis.transferTo(fos);
+        }
+        return out;
+    }
+}
