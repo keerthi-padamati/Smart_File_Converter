@@ -17,8 +17,10 @@ public class Compressor
             fis.transferTo(gzip);
           }
     rerurn out;
-
+  }
+}
     
+
 
 
 
