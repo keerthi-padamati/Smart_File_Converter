@@ -5,3 +5,4 @@ import java.util.zip.GZIPOutputStream;
 
 public class Compressor 
 {
+  public File compressText(File input) throws IOException {
