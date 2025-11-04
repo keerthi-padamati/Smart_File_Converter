@@ -1,7 +1,7 @@
 # Smart_File_Converter
 
 Smart_File_Converter is a **Java Swing-based application** that allows users to easily view file structures and automatically process files based on their type. The application supports text compression, image conversion, audio mock conversion, and generic file zipping.  
-
+---
 ## Features
   **Graphical User Interface** using Java Swing.  
       - Detects file type automatically: Text, Image, Audio, Video, or Other.  
@@ -12,7 +12,7 @@ Smart_File_Converter is a **Java Swing-based application** that allows users to 
       - **Other:** Zipped automatically.  
       - Shows the **file structure and processing status**.  
       - Provides a button to **open the processed file directly**.
-
+---
 
    ## Installation
 
@@ -27,7 +27,7 @@ git clone https://github.com/keerthi-padamati/Smart_File_Converter.git
   - Compile all Java files:  javac smartfileconverter/*.java
 
   - Run the application:   java smartfileconverter.Main
-
+---
   **Usage**
 
   Launch the application.  
@@ -39,7 +39,7 @@ git clone https://github.com/keerthi-padamati/Smart_File_Converter.git
   Other → Zipped
   The status label displays the output path.
   Click "Open File" to open the processed file.
-
+---
   ## Technologies Used
 
 | Technology         | Purpose                   |
@@ -49,7 +49,7 @@ git clone https://github.com/keerthi-padamati/Smart_File_Converter.git
 | **GZIP**           | Text compression          |
 | **Java Image I/O** | Image format conversion   |
 | **Java Zip API**   | File zipping              |
-
+---
 
 ## Future Enhancements
 
