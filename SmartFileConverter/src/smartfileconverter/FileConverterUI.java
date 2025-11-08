@@ -7,3 +7,6 @@ import java.awt.Desktop;
 
 public class FileConverterUI 
 {
+    private final JFrame frame;
+    private final JLabel status;
+    private final JButton openBtn;
