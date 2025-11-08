@@ -18,5 +18,10 @@ public class FileConverterUI
         frame.setSize(520, 220);
         frame.setLayout(new FlowLayout());
 
+        JButton chooseBtn = new JButton("Choose File");
+        status = new JLabel("No file selected.");
+
+
+
 
 
