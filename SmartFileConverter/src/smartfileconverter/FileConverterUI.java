@@ -13,3 +13,9 @@ public class FileConverterUI
     
    public FileConverterUI()
     {
+        frame = new JFrame("Smart File Converter & Compressor");
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        frame.setSize(500, 200);
+        
+
+
