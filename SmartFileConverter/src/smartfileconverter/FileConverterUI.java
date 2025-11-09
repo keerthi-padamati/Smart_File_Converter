@@ -32,7 +32,10 @@ public class FileConverterUI
         frame.setVisible(true);
     }
 
-     private void openFileChooser() {
+     private void openFileChooser()
+    {
+        JFileChooser chooser = new JFileChooser();
+
 
 
 
