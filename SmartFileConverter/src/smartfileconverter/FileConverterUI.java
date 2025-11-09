@@ -23,6 +23,9 @@ public class FileConverterUI
         openBtn = new JButton("Open File");
         openBtn.setVisible(false);
 
+        chooseBtn.addActionListener(e -> openFileChooser());
+
+
 
 
 
