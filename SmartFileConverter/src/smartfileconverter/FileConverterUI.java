@@ -47,9 +47,11 @@ public class FileConverterUI
     private void process(File file)
     {
         FileProcessor processor = new FileProcessor();
-        try {
+        try
+        {
             File output = processor.process(file);
+            status.setText("<html> Done!<br>Saved: " + output.getAbsolutePath() + "</html>");
+            openBtn.setVisible(true);
             
-        
 
 
