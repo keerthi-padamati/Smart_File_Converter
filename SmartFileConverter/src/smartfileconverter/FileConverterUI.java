@@ -50,6 +50,8 @@ public class FileConverterUI
         try
         {
             File output = processor.process(file);
+            status.setText("<html> Done!<br>Saved: " + output.getAbsolutePath() + "</html>");
+            openBtn.setVisible(true);
             openBtn.addActionListener(e -> {
             try 
             { 
