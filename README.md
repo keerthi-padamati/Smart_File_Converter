@@ -28,7 +28,7 @@ git clone https://github.com/keerthi-padamati/Smart_File_Converter.git
 
   - Run the application:   java smartfileconverter.Main
 ---
-  **Usage**
+ ## **Usage**
 
   Launch the application.  
   Click "Choose File" to select a file from your system.
