@@ -59,18 +59,20 @@ public class FileConverterUI
             } 
             catch (Exception ex) 
             { 
-                    ex.printStackTrace(); 
+                ex.printStackTrace(); 
             }      
-        });
+         });
         }
         catch (Exception ex)
-            {
+        {  
+            status.setText(" Error: " + ex.getMessage());
             ex.printStackTrace();
         }
     }
 }
 
             
+
 
 
 
