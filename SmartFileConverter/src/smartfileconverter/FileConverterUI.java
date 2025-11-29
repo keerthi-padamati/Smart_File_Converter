@@ -11,7 +11,7 @@ public class FileConverterUI
     private final JLabel status;
     private final JButton openBtn;
     
-   public FileConverterUI()
+    public FileConverterUI()
     {
         frame = new JFrame("Smart File Converter & Compressor");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -61,7 +61,7 @@ public class FileConverterUI
             { 
                 ex.printStackTrace(); 
             }      
-         });
+          });
         }
         catch (Exception ex)
         {  
@@ -72,6 +72,7 @@ public class FileConverterUI
 }
 
             
+
 
 
 
